@@ -1,0 +1,81 @@
+🛏️ Sleep & Lifestyle Patterns
+What is the average sleep duration by age group or occupation?
+
+By age Group
+20-30	6.468421053
+30-40	7.066901408
+40-50	6.909401709
+50-60	7.63125
+
+By Occupation
+Engineer	7.987301587
+Lawyer		7.410638298
+Accountant	7.113513514
+Nurse		7.063013699
+Doctor		6.970422535
+Manager		6.9
+Software Engineer	6.75
+Teacher	6.69
+Salesperson	6.403125
+Scientist	6
+Sales Representative	5.9
+
+
+Is there a correlation between stress level and sleep duration or quality of sleep?
+As Stress level increases, sleep decreases
+
+
+Do people with higher physical activity levels sleep better (quality/duration)?
+people who walk 2000-4000 and 8000-10000 steps sleep better than others
+
+
+Which occupations report the highest rate of sleep disorders?
+Nurse
+Teacher
+Salesperson
+
+
+How does average sleep duration vary by gender?
+Female Sleep 0.2 hours more than men
+
+📊 Health & Vital Signs Analysis
+What is the average heart rate for different BMI categories?
+Obese		84.3
+Normal Weight	71.28571429
+Overweight	70.94594595
+Normal		68.72820513
+
+
+Is there a link between blood pressure levels and reported sleep disorders?
+People with sleeping disorders have elevated blood pressures whereas people who dont, they have close to normal blood pressures
+
+
+Which BMI category reports the highest stress levels?
+Overweight
+
+Are individuals with lower physical activity levels more likely to have higher heart rates?
+yes
+
+
+🔍 Comparative/Group Analysis
+Compare sleep quality between people under 30 and over 50.
+People above 50 have a way better sleep quality than people under 30
+
+What are the most common health metrics (heart rate, blood pressure) among people with no sleep disorders?
+They have close to normal blood pressure and heart rate in the range of 70-80
+
+What’s the average number of daily steps for people with good vs. poor sleep quality?
+People with higher good sleep quality walk more steps comparatively
+
+Are sleep disorders more common among people with high stress levels?
+People with higher stress levels have way higher sleep disoders
+
+📈 Trend and Correlation Analysis
+Is there a trend between increasing stress level and decreased sleep quality?
+yes, more the stress level, lesser the sleep quality
+
+How does sleep duration affect heart rate across different age groups?
+as sleep duration increases, heart rate decreases
+trend is consistent across all age groups
+
+

@@ -1,0 +1,88 @@
+📊 Descriptive Analysis
+What is the average delivery duration across all orders?
+29.49203187 Mins over 1004 Orders
+
+
+What are the most and least common pizza sizes and types?
+Most common Pizza Size and type - Non-Veg Medium
+Least common Pizza Size and type - Thin Crust Medium
+
+Which restaurant has the highest number of orders?
+Atlanta, GA
+
+What is the average number of toppings per pizza?
+3.362549801
+
+
+🧠 Performance and Efficiency
+Which restaurant has the best average delivery efficiency (min/km)?
+Newark, NJ Corpus Christi, TX Scottsdale, AZ Fort Wayne, IN New Orleans, LA Henderson, NV 
+Reno, NV Laredo, TX Wichita, KS Lexington, KY Minneapolis, MN
+
+
+How does delivery efficiency differ during peak hours vs. non-peak hours?
+0.09 Minutes
+
+Is there a correlation between the number of toppings and delivery delay?
+More toppings, Lesser delivery Delay 
+
+Which pizza type or size leads to the most delays?
+Large Thai Chicken Pizza and XL Vegan Pizza leads to the most delays
+
+What is the average delay per traffic level?
+High	19.15914634
+Medium	17.8638191
+Low	15.46417266
+
+📅 Time-Based Analysis
+Which order month has the highest average delivery duration?
+June
+December
+May
+
+
+What time of day (Order Hour) sees the highest order volume?
+19 pm
+18 pm
+20 pm
+
+How does delivery duration vary between weekdays and weekends?
+not much, only by 0.2 of a minute
+
+Is there a pattern of delays during peak hours?
+Yes, As the evening progress's, delays increase 
+
+💳 Payment & Category Insights
+What is the most common payment method?
+Card 
+
+Does payment category (e.g., cash vs. card) impact delivery time or delay?
+Offline payment options(Cash and Domino's Cash) have lesser delays.
+
+
+
+📌 Advanced/What-If Analysis
+If traffic level were reduced by 1 level across the board, what would be the estimated reduction in delays?
+high to medium - 1.3 minutes 
+medium to low - 2.4 minutes
+
+What is the average topping density per pizza type and size?
+0.71 across all pizza types and sizes
+
+Large	0.653094477
+Medium	0.691305303
+Small	0.730281987
+XL	0.826763322
+
+BBQ Chicken	0.6
+Cheese Burst	0.844920884
+Deep Dish	0.666666667
+Gluten-Free	0.582461441
+Margarita	0.666666667
+Non-Veg		0.759773083
+Sicilian	0.709972319
+Stuffed Crust	0.673713738
+Thai Chicken	0.68844246
+Thin Crust	0.666666667
+Veg		0.621562817
+Vegan		0.722029822
